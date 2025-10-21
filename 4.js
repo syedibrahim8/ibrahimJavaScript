@@ -15,7 +15,7 @@ console.log(standard);
  box = 20
  console.log(box);
 
- //var is almost 25 years old
+//var is almost 25 years old
 // using let 
 
 let fname = "Syed Ibrahim"

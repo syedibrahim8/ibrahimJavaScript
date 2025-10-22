@@ -15,12 +15,13 @@
 
 // Reassign
  let a = 10;
- a = 20;                  // reassigned let
+ a = 20;                  // reassigned let but can't redeclare let
  console.log(a);
  
-// const cannot be redeclared and reassigned
+// Const cannot be redeclared or reassigned
  const aadharcard = "1234567890";
+ console.log(aadharcard);
  /*
  aadharcard = "0987654321"; // can't redeclare & can't reassign
- console.log(aadharcard); 
+ console.log(aadharcard); ❌ doesn't execute 
  */ 

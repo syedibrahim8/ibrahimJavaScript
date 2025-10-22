@@ -20,3 +20,6 @@ function hi() {
     console.log(a, b, c);
  }
  hi();
+
+// Anywhere
+ console.log(a, b, c);

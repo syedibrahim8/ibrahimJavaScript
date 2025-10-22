@@ -18,15 +18,16 @@
  Outside of Block            Y    N     N
 */
 
+// LET
 {
     let a = 10
     console.log(a);
 }
-// console.log(a) X can't access out of the blocks
+// console.log(a) ❌ can't access out of the blocks
 
-
+// CONST
 {
     const b = 20   
     console.log(b);
 }
-// console.log(a) X can't access out of the blocks
+// console.log(b) ❌ can't access out of the blocks

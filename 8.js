@@ -21,5 +21,5 @@ function hi() {
  }
  hi();
 
-// Anywhere
+// Anywhere 
  console.log(a, b, c);

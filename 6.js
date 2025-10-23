@@ -25,7 +25,7 @@
 }
 // console.log(a) ❌ can't access out of the blocks
 
-// CONST
+// CONST    
 {
     const b = 20   
     console.log(b);

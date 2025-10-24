@@ -63,6 +63,3 @@ console.log(b1);
 let c1 = undefined + 5;
 let c2 = true + undefined;
 console.log(c1, c2);
-
-
-

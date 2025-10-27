@@ -13,4 +13,4 @@ false
 null
 ''
 undefined
-NaN
+NaN*/

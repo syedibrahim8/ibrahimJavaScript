@@ -16,7 +16,7 @@ console.log(arr2.reverse());
 
 // 14. sort()
 let arr3 = [10,9,8,7,6,5,4,3,2,1];
-console.log(arr3.sort((a, b)=> b + a));
+console.log(arr3.sort((a, b)=> a-b));
 // IIFE - Imediately Invoked Function Expression
 
 // 15. flat() method

@@ -58,6 +58,6 @@ console.log(m1.slice(0,4)); // syntax console.log(variablename.slice(index,lengt
 
 // 14. padStart method()
 let n1 = "Hello"
-let n2 = n1.padStart(10,"*")
-let n3 = n1.replace("Hello","*****")
-console.log(n2.concat(n3))
+let n2 = n1.padStart(10,"*") // *****hello
+let n3 = n1.replace("Hello","*****") // *****
+console.log(n2.concat(n3)) // *****hello*****

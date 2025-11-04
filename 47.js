@@ -19,3 +19,4 @@ function factori(n){
 }
 let output = factori(7);
 console.log(output);
+// console.log(factori(7));

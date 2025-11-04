@@ -4,7 +4,7 @@ used to loop directly through the values of an iterable to an array
 */
 let students = ["Syed","Ibrahim","Ali"]
 for(let i of students){
- //   console.log(i);
+ console.log(i);
 }
 
 // for in loop

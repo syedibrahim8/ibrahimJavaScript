@@ -23,7 +23,7 @@ console.log(total1);
 
 // 26.reduceRight()
 let str1=["H","E","L","L","O"]
-let total2 = str.reduceRight((x,y)=>{
+let total2 = str1.reduceRight((x,y)=>{
     return x+y;
 })
 console.log(total2);
